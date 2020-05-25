@@ -1,6 +1,7 @@
 # BakerVerb
  
  #How to setup
+ 
  Step 1
  - Download and run vc_redist.x64.exe
  
