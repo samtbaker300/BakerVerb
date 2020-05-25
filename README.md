@@ -1,6 +1,11 @@
 # BakerVerb
  
  #How to setup
+ 
+ Step 1
+ - Download and run vc_redist.x64.exe
+ 
+ Step 2
  - Download bakerVerb-Windows.exe
  - Run bakerVerb-Windows.exe
  - Select directory to install application
